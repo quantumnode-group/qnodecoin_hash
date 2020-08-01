@@ -1,7 +1,7 @@
-dash_hash (python) v1.3.1
+qnodecoin_hash (python) v1.3.1
 ===========================
 
-Python module for Dash's X11 hashing.
+Python module for Qnodecoin's X11 hashing.
 
 
 Install
@@ -18,6 +18,13 @@ Test
 After installation, test hash.
 
     $ python2 test.py
+
+
+Todo:
+====
+* Port to modern python3.X
+
+
 
 Credits
 -------
